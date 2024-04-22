@@ -25,5 +25,4 @@
 
 
 ------
-Credit: [jacquelineatae](https://github.com/luiseer)
 Last Edited on: 22/04/2024
