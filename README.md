@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Poder Judicial Federal MX**
 
-- 🌱 I’m currently learning **React, NodeJS, MongoDB**
+- 🌱 I’m currently learning **React, NodeJS, MongoDB, Pyhon SQL**
 
 - 👨‍💻 All of my projects are available at [https://leerportafolio.netlify.app](https://leerportafolio.netlify.app)
 
