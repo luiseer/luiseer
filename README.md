@@ -7,7 +7,7 @@ Building scalable backend systems, automation tools and practical solutions.
 
 ---
 
-### ?? About Me
+### :rocket:  About Me
 
 - ?? Currently working in IT Support at **Poder Judicial Federal MX**
 - ?? Transitioning into **Backend Development**
@@ -17,7 +17,7 @@ Building scalable backend systems, automation tools and practical solutions.
 
 ---
 
-### ?? Tech Stack
+### :toolbox: Tech Stack
 
 **Backend**
 - Node.js (Express)
