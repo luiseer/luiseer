@@ -1,4 +1,4 @@
-<h1 align="center">Luis Estrada ?????</h1>
+<h1 align="center">Luis Estrada :man_technologist:</h1>
 <h3 align="center">Backend Developer | JavaScript & Python</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@ Building scalable backend systems, automation tools and practical solutions.
 
 ---
 
-### :rocket:  About Me
+### :rocket: About Me
 
-- ?? Currently working in IT Support at **Poder Judicial Federal MX**
-- ?? Transitioning into **Backend Development**
-- ?? Interested in **APIs, automation, system integration and DevOps basics**
-- ?? Learning: **Node.js, Express, MongoDB, Python, SQL**
-- ??? 9+ years solving real-world tech problems (infrastructure + users)
+- :office: Currently working in IT Support at **Poder Judicial Federal MX**
+- :brain: Transitioning into **Backend Development**
+- :gear: Interested in **APIs, automation, system integration and DevOps basics**
+- :books: Learning: **Node.js, Express, MongoDB, Python, SQL**
+- :hammer_and_wrench: 9+ years solving real-world tech problems (infrastructure + users)
 
 ---
 
@@ -35,16 +35,16 @@ Building scalable backend systems, automation tools and practical solutions.
 
 ---
 
-### ?? Featured Projects
+### :file_folder: Featured Projects
 
-?? [Portafolio Web](https://leerportafolio.netlify.app)  
-?? (Agrega aqu\Uffffffff\Uffffffff3 proyectos fuertes: APIs, scripts, automatizaci\Uffffffffetc.)
+- :link: [Portafolio Web](https://leerportafolio.netlify.app)  
+- :construction: Add 2\Uffffffff3 strong backend projects here (APIs, scripts, automation)
 
-> ?? Tip: Si no tienes proyectos backend s\Uffffffffos, aqu\Uffffffffst\Uffffffffu mayor \Uffffffffa de mejora.
+> :bulb: Tip: If you don\Ufffffffft have solid backend projects yet, this is your biggest opportunity.
 
 ---
 
-### ?? GitHub Stats
+### :bar_chart: GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luiseer&show_icons=true&theme=tokyonight" />
@@ -53,14 +53,14 @@ Building scalable backend systems, automation tools and practical solutions.
 
 ---
 
-### ?? Connect
+### :mailbox: Connect
 
-- ?? Email: **luiseer09@gmail.com**
-- ?? Twitter: https://twitter.com/luiseer2108
+- :email: Email: **luiseer09@gmail.com**
+- :bird: Twitter: https://twitter.com/luiseer2108
 
 ---
 
-### ? What I'm Focused On
+### :zap: What I'm Focused On
 
 - Building real backend projects (not just courses)
 - Improving my English for tech communication
