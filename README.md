@@ -38,9 +38,7 @@ Building scalable backend systems, automation tools and practical solutions.
 ### :file_folder: Featured Projects
 
 - :link: [Portafolio Web](https://leerportafolio.netlify.app)  
-- :construction: Add 2\Uffffffff3 strong backend projects here (APIs, scripts, automation)
 
-> :bulb: Tip: If you don\Ufffffffft have solid backend projects yet, this is your biggest opportunity.
 
 ---
 
